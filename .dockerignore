@@ -6,3 +6,5 @@ build
 **/.github
 **/.DS_Store
 **/node_modules
+terraform
+helm
